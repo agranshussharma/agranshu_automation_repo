@@ -11,7 +11,7 @@ public class CoreJavaForTA {
 		callableClass obj = new callableClass();
 		obj.turnOn();
 		
-		//DATA TYPES
+		//DATA TYPES "all the numbers" 
 		//integer string double boolean
 		int it;
 		it=5;
